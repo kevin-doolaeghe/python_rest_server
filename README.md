@@ -1,1 +1,1 @@
-# python_rest_server
+# Serveur REST simple en Python
